@@ -45,12 +45,11 @@ I'm a **Computer Engineering** student at the **University of Isfahan**, passion
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Masih-Roughani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masih-Roughani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Masih-Roughani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Masih-Roughani&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masih-Roughani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
 ## 🤝 Let's Connect!

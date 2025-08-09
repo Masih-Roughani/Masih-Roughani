@@ -42,10 +42,19 @@ I'm a **Computer Engineering** student at the **University of Isfahan**, passion
 - 💼 Developing **full-stack web applications**
 - 📚 Continuously learning new technologies and best practices
 
-## 📊 GitHub Stats
-![Masih's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masih-Roughani&show_icons=true&theme=radical)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masih-Roughani&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Masih-Roughani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masih-Roughani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masih-Roughani&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 🤝 Let's Connect!
 I'm always open to collaborating on interesting projects, especially those involving:

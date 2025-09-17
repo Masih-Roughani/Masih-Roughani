@@ -12,6 +12,7 @@ I'm a **Computer Engineering** student at the **University of Isfahan**, passion
 - **Software Engineering** - Building scalable, maintainable software solutions
 
 ## 💻 Tech Stack
+
 ### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,6 +37,14 @@ I'm a **Computer Engineering** student at the **University of Isfahan**, passion
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Message Brokers & Caching
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Communication Protocols
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=white)
+
 ## 🌟 Current Focus
 - 🔍 Deepening my knowledge in **Data Structures and Algorithms**
 - 🌐 Building **IoT projects** that bridge physical and digital worlds
@@ -43,7 +52,6 @@ I'm a **Computer Engineering** student at the **University of Isfahan**, passion
 - 📚 Continuously learning new technologies and best practices
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Masih-Roughani&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masih-Roughani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />

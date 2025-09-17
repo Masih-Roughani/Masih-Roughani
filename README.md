@@ -41,10 +41,6 @@ I'm a **Computer Engineering** student at the **University of Isfahan**, passion
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Communication Protocols
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=white)
-
 ## 🌟 Current Focus
 - 🔍 Deepening my knowledge in **Data Structures and Algorithms**
 - 🌐 Building **IoT projects** that bridge physical and digital worlds
